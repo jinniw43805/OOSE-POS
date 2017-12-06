@@ -1,0 +1,83 @@
+.floorplan,
+.table {
+    border: 1px solid #ee7538;
+        margin: auto;
+
+}
+
+.floorplan {
+    background: #ebecec;
+    height: 300px;
+    position: relative;
+    width: 400px;
+}
+
+.table {
+    background: #fff;
+    color: #000;
+    display: block;
+    font-family: Impact, sans-serif;
+    font-weight: bold;
+    position: absolute;
+    text-align: center;
+    text-decoration: none;
+}
+
+.table:hover {
+    background: #ee7538;
+    color: #fff;
+}
+
+#tb1 {
+    height: 50px;
+    left: 20px;
+    line-height: 50px;
+    top: 20px;
+    width: 100px;
+}
+#tb2 {
+    height: 50px;
+    right: 20px;
+    line-height: 50px;
+    top: 20px;
+    width: 100px;
+}
+
+#tb3 {
+    height: 100px;
+    left: 20px;
+    line-height: 100px;
+    top: 100px;
+    width: 50px;
+}
+
+#tb4 {
+    height: 100px;
+    left: 91px;
+    line-height: 100px;
+    top: 100px;
+    width: 50px;
+}
+
+#tb5 {
+    height: 100px;
+    right: 20px;
+    line-height: 100px;
+    top: 100px;
+    width: 50px;
+}
+
+#tb6 {
+    height: 100px;
+    right: 91px;
+    line-height: 100px;
+    top: 100px;
+    width: 50px;
+}
+#tb7 {
+    height: 50px;
+    left: 148px;
+    line-height: 50px;
+    bottom: 20px;
+    width: 100px;
+}
